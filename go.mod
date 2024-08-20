@@ -1,4 +1,4 @@
-module github.com/oxequa/realize
+module github.com/lab42/realize
 
 go 1.14
 
@@ -14,5 +14,4 @@ require (
 	github.com/valyala/fasttemplate v1.1.0 // indirect
 	golang.org/x/net v0.28.0
 	gopkg.in/yaml.v2 v2.2.2
-	gopkg.in/yaml.v3 v3.0.1
 )
